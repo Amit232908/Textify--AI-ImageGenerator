@@ -31,6 +31,10 @@ CSS
 
 JavaScript
 
+# 📦 Installation & Usage
+
+![Image](https://github.com/user-attachments/assets/6e840b50-28d8-42a1-a0d7-f14c031aa180)
+
 # 🙋‍♂️ Author
 
 Amit Das
