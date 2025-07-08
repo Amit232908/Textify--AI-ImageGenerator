@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Textify - AI ImageGenerator</title>
+    <link rel="stylesheet" href="generate.css" >
+    <script src="./generate.js" defer></script>
+    <link rel="icon" href="./images2/logo-icon.png">
+</head>
+<body>
+    
+    <section class="image-generator">
+        <div class="content">
+            <img src="./images/logo.svg" alt="">
+            <h1>AI Text to <span>Image</span> Generator</h1>
+
+            <p>Type a phrase, sentence, or paragraph that describes the image you want to create</p>
+
+            <form action="#" class="generate-form">
+
+                <input type="text" class="prompt-input" required
+                placeholder="Describe what you want to see...">
+
+                <div class="controls">
+
+                    <select class="image-quantity">
+                        <option value="1">1 Image</option>
+                        <option value="2">2 Image</option>
+                        <option value="3">3 Image</option>
+                        <option value="4" selected>4 Image</option>
+                    </select>
+
+                    <button type="submit" class="generate-btn">Generate</button>
+                </div>
+            </form>
+
+        </div>
+
+    </section>
+
+    <section class="image-gallery">
+
+        <div class="image-card">
+            <img src="./images2/sample_image_1.jpeg" alt="image">
+            <!-- <a href="#" class="download-btn">
+                <img src="./images/download.svg" 
+                alt="download icon">
+            </a> -->
+        </div>
+
+        <div class="image-card">
+            <img src="./images2/sample_image_2.jpeg" alt="image">
+            <!-- <a href="#" class="download-btn">
+                <img src="./images/download.svg" 
+                alt="download icon">
+            </a> -->
+        </div>
+
+        <div class="image-card">
+            <img src="./images2/sample_image_3.jpeg" alt="image">
+            <!-- <a href="#" class="download-btn">
+                <img src="./images/download.svg" 
+                alt="download icon">
+            </a> -->
+        </div>
+
+        <div class="image-card">
+            <img src="./images2/sample_image_4.jpeg" alt="image">
+            <!-- <a href="#" class="download-btn">
+                <img src="./images/download.svg" 
+                alt="download icon">
+            </a> -->
+        </div>
+
+    </section>
+
+</body>
+</html>
