@@ -35,6 +35,10 @@ JavaScript
 
 ![Image](https://github.com/user-attachments/assets/6e840b50-28d8-42a1-a0d7-f14c031aa180)
 
+# 📌 Disclaimer:
+
+⚠️ Currently, image generation is temporarily disabled because it requires an OpenAI API key with a $5 payment. The integration is fully set up — just the API key needs to be added to enable it.
+
 # 🙋‍♂️ Author
 
 Amit Das
