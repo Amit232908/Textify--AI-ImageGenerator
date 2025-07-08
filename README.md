@@ -20,3 +20,18 @@ Textify AI is a modern, user-friendly web app that converts text prompts into st
 https://textify-ai-imagegenerator.netlify.app/
 
 # 📁 Project Structure
+
+![Image](https://github.com/user-attachments/assets/8b8fb32b-331c-4adf-bab0-9b25c06e9e0b)
+
+# 🛠️ Technologies Used
+
+HTML
+
+CSS
+
+JavaScript
+
+# 🙋‍♂️ Author
+
+Amit Das
+📧 Contact: damit4781@gmail.com
