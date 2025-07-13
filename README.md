@@ -15,9 +15,6 @@ Textify AI is a modern, user-friendly web app that converts text prompts into st
 
 📽️ Video background for visual appeal
 
-# 🖼️ Live Demo
-
-https://textify-ai-imagegenerator.netlify.app/
 
 # 📁 Project Structure
 
@@ -34,6 +31,10 @@ JavaScript
 # 📦 Installation & Usage
 
 ![Image](https://github.com/user-attachments/assets/6e840b50-28d8-42a1-a0d7-f14c031aa180)
+
+# 🖼️ Live Demo
+
+https://textify-ai-imagegenerator.netlify.app/
 
 # 📌 Disclaimer:
 
